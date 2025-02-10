@@ -1,0 +1,9 @@
+sonar-scanner.bat ^
+  -D"sonar.organization=alexeynarush" ^
+  -D"sonar.projectKey=AlexeyNarush_SCA-and-SAST-tryout" ^
+  -D"sonar.sources=." ^
+  -D"sonar.host.url=https://sonarcloud.io" ^
+  -D"sonar.java.binaries= **/*.java" ^
+  -D"sonar.c.file.suffixes=-" ^
+  -D"sonar.cpp.file.suffixes=-" ^
+  -D"sonar.objc.file.suffixes=-"

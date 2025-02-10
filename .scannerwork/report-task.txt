@@ -1,0 +1,7 @@
+organization=alexeynarush
+projectKey=AlexeyNarush_SCA-and-SAST-tryout
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.59590
+dashboardUrl=https://sonarcloud.io/dashboard?id=AlexeyNarush_SCA-and-SAST-tryout
+ceTaskId=AZTxaRMR3PghRF40EwDr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZTxaRMR3PghRF40EwDr
